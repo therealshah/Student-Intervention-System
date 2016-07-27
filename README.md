@@ -1,4 +1,7 @@
 # Project 2: Supervised Learning
+**************************************************************************************************************
+This is the student intervention system i built as part of the nano degree program. It predicts wheter a student is in endanger of failing based on 30 input features. Enjoy :)
+*****************************************************************************************************************
 ## Building a Student Intervention System
 
 ### Install
